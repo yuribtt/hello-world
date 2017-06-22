@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="csv" type="PLAIN_TEXT" />
+      <mapping ext="coffee" type="PLAIN_TEXT" />
       <mapping pattern="Query" type="Scala" />
       <mapping pattern="test" type="Scala" />
       <mapping ext="db" type="Scala" />
